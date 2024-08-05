@@ -21,4 +21,4 @@ You should be able to logout as well.
 
 ## Last updated
 
-Nov 2022
+Aug 2024
